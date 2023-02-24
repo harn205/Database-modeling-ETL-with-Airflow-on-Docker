@@ -2,7 +2,7 @@
 ### Project overview:
 
 For this personal project, 
-- I downloaded a dataset from Kaggle and **designed a PostgresSQL database model** via `Google Cloud SQL` to store that dataset. I also designed a database ER diagram by myself to ensure a well-structured and organized database.
+- I downloaded a [dataset from Kaggle](https://www.kaggle.com/datasets/erikbruin/airbnb-amsterdam) and **designed a PostgresSQL database model** via `Google Cloud SQL` to store that dataset. I also designed a database ER diagram by myself to ensure a well-structured and organized database.
 
 - Next, I used **Pandas to understand and clean the data in the dataset**, ensuring data accuracy and consistency. This step helped me to get a better understanding of the data and its characteristics.
 
