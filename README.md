@@ -12,3 +12,5 @@ For this personal project,
 - Finally, **I loaded the final clean data to the data warehouse** on `Google BigQuery` using the ETL pipeline created in the previous step. This allowed me to store the data in a well-organized manner and provided me with an efficient way to query the data for further analysis.
 
 Overall, this project showcases my skills in data engineering, data modeling, and data warehousing. It also highlights my ability to work with different technologies such as Google Cloud SQL, Pandas, Docker, Apache Airflow, and Google BigQuery.
+
+![project_overview](images/project_overview.PNG)
