@@ -3,8 +3,7 @@
 
 For this personal project, 
 - I downloaded a [dataset from Kaggle](https://www.kaggle.com/datasets/erikbruin/airbnb-amsterdam) and **designed a PostgresSQL database model** via `Google Cloud SQL` to store that dataset. I also designed a database ER diagram by myself to ensure a well-structured and organized database.
-
-- Next, I used **Pandas to understand and clean the data in the dataset**, ensuring data accuracy and consistency. This step helped me to get a better understanding of the data and its characteristics.
+  - I used **Pandas to understand and clean the data in the dataset**, ensuring data accuracy and consistency. This step helped me to get a better understanding of   the data and its characteristics.
 
 - **To automate the data extraction, transformation, and loading stages, I built an ETL pipeline** using `Apache Airflow on Docker`. Setting up the Apache Airflow environment on Docker was challenging, but it allowed me to run the pipeline efficiently on my local machine.
 
