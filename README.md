@@ -27,4 +27,4 @@ The dataset contains 7 files (6 .csv files and 1 .geojson file). Each of the fil
 
 ## STEP 2: Database modeling and Creation
 After understanding the dataset files from previous step with Pandas, I designed the database ER-diagram to be like this.
-![ER](images/ER.PNG)
+![ER](images/ER.png)
