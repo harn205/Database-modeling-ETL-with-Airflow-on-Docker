@@ -29,5 +29,6 @@ The dataset contains 7 files (6 .csv files and 1 .geojson file). Each of the fil
 After understanding the dataset files from previous step with Pandas, I designed the database ER-diagram to be like this.
 ![ER](images/ER.png)
 
-I created a PostgreSQL database via Google Cloud SQL based on the ER-diagram that I designed by cleaning the data with Pandasand using PostgreSQL syntax to create and insert tables for each file in the dataset.
+I created a PostgreSQL database via Google Cloud SQL based on the ER-diagram that I designed by cleaning the data with Pandas and using PostgreSQL syntax to create and insert tables for each file in the dataset.
 
+![database](images/database.PNG)
