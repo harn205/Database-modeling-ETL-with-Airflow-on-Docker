@@ -1,4 +1,6 @@
 # Database Modeling and Creation & ETL Data Pipeline using Apache Airflow with Docker
+
+![project_overview](images/project_overview.PNG)
 ### Project overview:
 
 For this personal project, 
@@ -13,4 +15,12 @@ For this personal project,
 
 Overall, this project showcases my skills in data engineering, data modeling, and data warehousing. It also highlights my ability to work with different technologies such as Google Cloud SQL, Pandas, Docker, Apache Airflow, and Google BigQuery.
 
-![project_overview](images/project_overview.PNG)
+
+
+
+## STEP 1: Understanding the dataset being used.
+I downloaded the [Airbnb Amsterdam dataset](https://www.kaggle.com/datasets/erikbruin/airbnb-amsterdam) from Kaggle.
+
+![dataset](images/dataset.PNG)
+
+The dataset contains 7 files (6 .csv files and 1 .geojson file). Each of the files contains Airbnb Amsterdam data for different categories, with some column of them being related to others.
