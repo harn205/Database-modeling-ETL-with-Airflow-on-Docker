@@ -11,10 +11,11 @@ For this personal project,
 
 - For **the extraction stage**, I queried the data from PostgreSQL created in the first step. Then, I used **Pandas for the transformation and cleaning stage**, where I  transformed and cleaned the data to make it ready for loading.
 
-- Finally, **I loaded the final clean data to the data warehouse** on `Google BigQuery` using the ETL pipeline created in the previous step. This allowed me to store the data in a well-organized manner and provided me with an efficient way to query the data for further analysis.
+- **I loaded the final clean data to the data warehouse** on `Google BigQuery` using the ETL pipeline created in the previous step. This allowed me to store the data in a well-organized manner and provided me with an efficient way to query the data for further analysis.
 
-Overall, this project showcases my skills in data engineering, data modeling, and data warehousing. It also highlights my ability to work with different technologies such as Google Cloud SQL, Pandas, Docker, Apache Airflow, and Google BigQuery.
+- Finallly, I performed **data visualization on Tableau** to explore insights and trends from the dataset. This step helped me to identify key patterns and trends in the data that were not apparent through other analysis methods. I created interactive dashboards on Tableau that allowed me to easily explore the data.
 
+Overall, this project showcases my skills in data engineering, data modeling, data warehousing, and data visualization. It also highlights my ability to work with different technologies such as Google Cloud SQL, PostgreSQL, Pandas, Docker, Apache Airflow, Google BigQuery, and Tableau.
 
 
 
