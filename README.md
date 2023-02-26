@@ -1,6 +1,6 @@
 # Database Modeling and Creation & ETL Data Pipeline using Apache Airflow with Docker
 
-![project_overview](images/project_overview.PNG)
+![project_overview](images/project.PNG)
 ### Project overview:
 
 For this personal project, 
