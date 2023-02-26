@@ -48,3 +48,6 @@ Using Docker compose to run Apache/Airflow on my local machine to automate the d
 - **Load**: Load the data to the datawarehouse on Google BigQuery
 #### DAG graph view
 ![DAG](images/DAG.png)
+
+## STEP 4:Datawarehousing
+The final cleaned data will be stored on the datawarehouse on Google BigQuery.
