@@ -24,6 +24,14 @@ I downloaded the [Airbnb Amsterdam dataset](https://www.kaggle.com/datasets/erik
 ![dataset](images/dataset.PNG)
 
 The dataset contains 7 files (6 .csv files and 1 .geojson file). Each of the files contains Airbnb Amsterdam data for different categories, with some column of them being related to others.
+The descriptions for each files.
+- calendar.csv contains 7310950 rows and 4 columns
+- listings.csv contains 20030 rows and 16 columns
+- listings_details.csv contains 20030 rows and 96 columns
+- neighbourhoods.csv contains 22 rows and 2 columns
+- reviews.csv contains 431830 rows and 2 columns
+- reviews_details.csv contains 431830 rows and 6 columns
+- neighbourhoods_geo.geojson contains 22 rows and 3 columns
 
 ## STEP 2: Database modeling and Creation
 After understanding the dataset files from previous step with Pandas, I designed the database ER-diagram to be like this.
