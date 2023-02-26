@@ -43,3 +43,5 @@ I created a PostgreSQL database via Google Cloud SQL based on the ER-diagram tha
 
 ## STEP 3: ETL Data pipeline  automated by Airflow on Docker
 Using Docker compose to run Apache/Airflow on my local machine to automate the data extraction, transformation, and loading stages.
+#### DAG graph view
+![DAG](images/DAG.png)
