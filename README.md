@@ -40,3 +40,6 @@ After understanding the dataset files from previous step with Pandas, I designed
 I created a PostgreSQL database via Google Cloud SQL based on the ER-diagram that I designed by cleaning the data with Pandas and using PostgreSQL syntax to create and insert tables for each file in the dataset also assigned the **primary key** and **foreign key** for each table.
 
 ![database](images/database.PNG)
+
+## STEP 3: ETL Data pipeline  automated by Airflow on Docker
+Using Docker compose to run Apache/Airflow on my local machine to automate the data extraction, transformation, and loading stages.
