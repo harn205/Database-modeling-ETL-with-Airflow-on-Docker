@@ -55,3 +55,5 @@ Using Docker compose to run Apache/Airflow on my local machine to automate the d
 The final cleaned data will be stored on the datawarehouse on Google BigQuery.
 
 ![datawarehouse](images/datawarehouse.PNG)
+
+## STEP 5: Data Visualization on Tableau
